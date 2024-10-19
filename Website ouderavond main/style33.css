@@ -1,0 +1,134 @@
+.header1{
+    background-color: rgb(82, 146, 78);
+    padding: 5px;
+    display: flex;
+    position: flex;
+    justify-content: center; 
+   
+}
+
+h1
+{
+    color: white;
+}
+
+.quote{
+
+position: absolute;
+bottom: 400px;
+right: 600px;
+
+color: black;
+
+}
+
+.important{
+
+position: absolute;
+bottom: 450px;
+right: 150px;
+
+
+color: black;
+
+}
+
+.p1{
+
+position: absolute;
+right: 200px;
+bottom: 400px;
+
+
+color: black;
+
+}
+
+
+.nav1{
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    background: #c3dfbc;
+    
+
+ 
+    
+
+    justify-content: space-between;
+  }
+
+  nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+  }
+  nav li {
+    font-size: 1.5rem;
+    padding: 0 4rem 0 4rem;
+  }
+  nav a {
+    color: rgb(19, 18, 18);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  nav img {
+    width: 5vw;
+  }
+
+  .footer1{
+    position: absolute;
+    bottom: 0px;
+    background-color: rgb(82, 146, 78);
+    padding: 10px;
+    width: 98%;
+    padding: 5px;
+    display: flex;
+    position: flex;
+    justify-content: center; 
+    height: 40px;
+  }
+
+  .nav2{
+    position: absolute;
+    bottom: 0px;
+    left: 380px;
+    right: 380px;
+    
+   
+   }
+
+   .logo{
+    position: absolute;
+    top: 0px;
+    width: 250px;
+    
+
+}
+
+
+.logo1{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 175px;
+}
+
+.canvas{
+  position: absolute;
+  bottom: 500px;
+  right: 675px;
+
+  font-size: 4rem;
+
+  color: green;
+}
+
+.image1{
+  position: absolute;
+  bottom: 150px;
+  left: 100px;
+  
+
+  width: 500px;
+}

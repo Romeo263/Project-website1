@@ -1,0 +1,182 @@
+.header1{
+    background-color: rgb(82, 146, 78);
+    padding: 5px;
+    display: flex;
+    position: flex;
+    justify-content: center; 
+   
+}
+
+h1
+{
+    color: white;
+}
+
+.logo{
+    position: absolute;
+    top: 0px;
+    width: 250px;
+    
+
+}
+
+
+.image1{
+position: absolute;
+bottom:100px ;
+top: 200px;
+
+
+width: 150px;
+}
+
+.image2{
+    position: absolute;
+bottom:200px ;
+top: 200px;
+left: 500px;
+right: 500px;
+
+width: 150px;
+}
+
+.image3{
+position: absolute;
+bottom: 200px;
+top: 200px;
+left: 900px;
+right: 900px;
+
+width: 150px;
+
+
+}
+
+.image4{
+position: absolute;
+bottom: 130px;
+left: 100px;
+
+width: 150px;
+
+}
+
+.image5{
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    right: 100px;
+    width: 150px;
+
+}
+
+.image6{
+  position: absolute;
+  bottom: 130px;
+  left: 500px;
+
+  width: 150px;
+}
+
+.image7{
+  position: absolute;
+  bottom: 130px;
+  left: 900px;
+
+  width: 150px;
+}
+
+.image8{
+  position: absolute;
+  bottom: 130px;
+  right: 35px;
+
+  width: 300px;
+}
+
+.nav1{
+        display: flex;
+        padding: 5px;
+        align-items: center;
+        background: #c3dfbc;
+        
+    
+     
+        
+    
+        justify-content: space-between;
+      }
+
+      nav ul {
+        display: flex;
+        align-items: center;
+        list-style-type: none;
+      }
+      nav li {
+        font-size: 1.5rem;
+        padding: 0 4rem 0 4rem;
+      }
+      nav a {
+        color: rgb(19, 18, 18);
+        text-decoration: none;
+        font-weight: bold;
+      }
+      nav img {
+        width: 5vw;
+      }
+
+      .footer1{
+        position: absolute;
+        bottom: 0px;
+        background-color: rgb(82, 146, 78);
+        padding: 10px;
+        width: 98%;
+        padding: 5px;
+        display: flex;
+        position: flex;
+        justify-content: center; 
+        height: 40px;
+      }
+
+      .image1{
+        
+        position: absolute; 
+        left: 100px;
+        
+        
+
+      }
+
+   .nav2{
+    position: absolute;
+    bottom: 0px;
+    left: 380px;
+    right: 380px;
+    
+   
+   }
+
+   
+   
+.container{
+  position: absolute;
+  bottom: 325px;
+}
+
+.item1{
+  position: absolute;
+ left: 125px;
+}
+
+
+.item4{
+  position: absolute;
+right: 0px;
+left: 1000px;
+
+
+}
+
+
+   
+   
